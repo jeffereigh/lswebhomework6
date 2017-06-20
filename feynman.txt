@@ -1,0 +1,6 @@
+Feynman Writing Prompts
+
+1. Functions - it performs a specific task. It is named so that you can recall the function. It has parameters.
+2. Parameters - an argument. Written in parentheses (). Names of the values.
+3. Arguments - the input. The real values substituted in the parameters to make it work.
+4.  `if` statements - a true or false statement that declares if something is true outcome a)  happens and if something is false b) happens.
